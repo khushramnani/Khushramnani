@@ -1,7 +1,7 @@
 <div align="center" style="background: #1f1f1f; padding: 40px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khush+Ramnani;Full+Stack+Maestro+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khush;Full+Stack+Dev+from+India" alt="Typing SVG" />
   <p style="font-family: 'Inter', sans-serif; font-size: 18px; color: #cfcfcf; max-width: 700px; margin: 25px auto;">
-    Passionate Full Stack Developer 🇮🇳 turning ideas into functional & beautiful web experiences. Currently building <strong>PageCrafter</strong> – redefining how the web is made.
+    Passionate Full Stack Developer 🇮🇳 turning ideas into functional & beautiful web experiences.
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=khushramnani&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
